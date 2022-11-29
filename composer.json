@@ -1,0 +1,8 @@
+{
+	"require":{
+		"php": "^8",
+		"dg/twitter-php":"^4.1",
+		"stoic/io":"^1.1",
+		"andym84/config":"^1.1"
+	}
+}
